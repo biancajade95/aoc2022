@@ -45,7 +45,7 @@ def clean_input(raw_lines):
 
 
 def read_input():
-    with open('input.txt') as f:
+    with open('Day1.txt') as f:
         raw_lines = f.readlines()
     return raw_lines
 
